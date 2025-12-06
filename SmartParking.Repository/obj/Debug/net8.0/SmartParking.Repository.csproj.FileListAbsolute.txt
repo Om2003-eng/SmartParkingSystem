@@ -1,0 +1,17 @@
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\bin\Debug\net8.0\SmartParking.Repository.deps.json
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\bin\Debug\net8.0\SmartParking.Repository.runtimeconfig.json
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\bin\Debug\net8.0\SmartParking.Repository.dll
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\bin\Debug\net8.0\SmartParking.Repository.pdb
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\bin\Debug\net8.0\SmartParking.Core.dll
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\bin\Debug\net8.0\SmartParking.Core.pdb
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\SmartParking.Repository.csproj.AssemblyReference.cache
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\SmartParking.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\SmartParking.Repository.AssemblyInfoInputs.cache
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\SmartParking.Repository.AssemblyInfo.cs
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\SmartParking.Repository.csproj.CoreCompileInputs.cache
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\SmartPar.BB139413.Up2Date
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\SmartParking.Repository.dll
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\refint\SmartParking.Repository.dll
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\SmartParking.Repository.pdb
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\SmartParking.Repository.genruntimeconfig.cache
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Repository\obj\Debug\net8.0\ref\SmartParking.Repository.dll

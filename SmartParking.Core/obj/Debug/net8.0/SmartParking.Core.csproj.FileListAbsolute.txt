@@ -1,0 +1,14 @@
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\bin\Debug\net8.0\SmartParking.Core.deps.json
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\bin\Debug\net8.0\SmartParking.Core.runtimeconfig.json
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\bin\Debug\net8.0\SmartParking.Core.dll
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\bin\Debug\net8.0\SmartParking.Core.pdb
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.csproj.AssemblyReference.cache
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.AssemblyInfoInputs.cache
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.AssemblyInfo.cs
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.csproj.CoreCompileInputs.cache
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.dll
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\refint\SmartParking.Core.dll
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.pdb
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.genruntimeconfig.cache
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\ref\SmartParking.Core.dll

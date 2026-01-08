@@ -23,6 +23,7 @@ namespace SmartParkingSystem
         public DbSet<ChatbotLog> ChatbotLogs { get; set; }
         public DbSet<AdminReport> AdminReports { get; set; }
         public DbSet<CheckInOutLog> CheckInOutLogs { get; set; }
+        public DbSet<Notification> Notifications { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -110,8 +111,22 @@ namespace SmartParkingSystem
                 .WithMany(u => u.AdminReports)
                 .HasForeignKey(a => a.AdminId)
                 .OnDelete(DeleteBehavior.Restrict);
+
+
+            // ------------------- 9. Notfications → User (M:1) -------------------
+
+            builder.Entity<Notification>()
+                .HasKey(n => n.NotificationId);
+
+            builder.Entity<Notification>()
+                .HasOne(n => n.User)
+                .WithMany(u => u.Notifications)
+                .HasForeignKey(n => n.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
+
         }
 
     }
+
 
 }

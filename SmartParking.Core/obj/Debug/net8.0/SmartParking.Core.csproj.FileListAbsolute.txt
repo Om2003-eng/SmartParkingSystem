@@ -12,3 +12,4 @@ C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.
 C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.pdb
 C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.genruntimeconfig.cache
 C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\ref\SmartParking.Core.dll
+C:\Users\omarm\source\repos\SmartParkingSystem\SmartParking.Core\obj\Debug\net8.0\SmartParking.Core.sourcelink.json

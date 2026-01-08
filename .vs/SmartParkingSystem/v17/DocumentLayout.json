@@ -3,64 +3,192 @@
   "WorkspaceRootPath": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\chatbotlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\chatbotlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\checkinoutlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\checkinoutlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\chatbotlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\chatbotlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\checkinoutlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\checkinoutlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\parkingslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\parkingslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createadminreportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createadminreportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.repository\\parkingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|solutionrelative:smartparking.repository\\parkingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|solutionrelative:smartparking.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createchatbotlogrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createchatbotlogrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\userhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\userhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\checkinoutlogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\checkinoutlogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|solutionrelative:smartparking.repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.repository\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|solutionrelative:smartparking.repository\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\notificationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\notificationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\adminreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\adminreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\userhistoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\userhistoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\adminreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\adminreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\sensorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\sensorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\endreservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\endreservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\reservationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\reservationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createwalletrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createwalletrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createreservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createreservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\smartparking.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\smartparking.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createadminreportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createadminreportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,24 +199,8 @@
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\walletresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\sensorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\sensorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\reservationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\reservationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\parkingslotresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\parkingslotresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\checkinoutlogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\checkinoutlogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\responsedtos\\chatbotlogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,16 +211,8 @@
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\responsedtos\\adminreportresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createwalletrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createwalletrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createsensorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createsensorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createreservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createreservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createpaymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,104 +227,24 @@
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createcheckinoutlogrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\dtos\\requestdtos\\createchatbotlogrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\dtos\\requestdtos\\createchatbotlogrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\smartparking.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\smartparking.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\migrations\\20251205012654_yourmigrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\migrations\\20251205012654_yourmigrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.repository\\parkingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|solutionrelative:smartparking.repository\\parkingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|solutionrelative:smartparking.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|solutionrelative:smartparking.repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.repository\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|solutionrelative:smartparking.repository\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\smartparkingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\smartparkingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\checkinoutlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\checkinoutlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\adminreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\adminreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\chatbotlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\chatbotlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\checkinoutlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\checkinoutlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\controllers\\chatbotlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\controllers\\chatbotlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\wwwroot\\reset-password.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\wwwroot\\reset-password.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.repository\\smartparking.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BE390CF8-9A29-4C37-84AE-BF2ED049F96E}|SmartParking.Repository\\SmartParking.Repository.csproj|solutionrelative:smartparking.repository\\smartparking.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\migrations\\20251121165305_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\migrations\\20251121165305_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparking.core\\entities\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9BDDC-66C7-43E9-8FB9-E2393A0413BC}|SmartParking.Core\\SmartParking.Core.csproj|solutionrelative:smartparking.core\\entities\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\migrations\\20251121173413_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -233,6 +257,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\migrations\\20251205013123_yourmigrationname1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\migrations\\20251205013123_yourmigrationname1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\omarm\\source\\repos\\smartparkingsystem\\smartparkingsystem\\migrations\\20251220124902_addnotificationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE373654-3104-4548-8519-E581C48AF3A0}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\migrations\\20251220124902_addnotificationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -242,7 +270,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -282,7 +310,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 1,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "SmartParkingSystem\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwHQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:52:38.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20251220124902_AddNotificationsTable.cs",
+              "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Migrations\\20251220124902_AddNotificationsTable.cs",
+              "RelativeDocumentMoniker": "SmartParkingSystem\\Migrations\\20251220124902_AddNotificationsTable.cs",
+              "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Migrations\\20251220124902_AddNotificationsTable.cs",
+              "RelativeToolTip": "SmartParkingSystem\\Migrations\\20251220124902_AddNotificationsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:49:03.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotificationResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\NotificationResponseDTO.cs",
+              "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\NotificationResponseDTO.cs",
+              "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\NotificationResponseDTO.cs",
+              "RelativeToolTip": "SmartParkingSystem\\DTOs\\ResponseDTOs\\NotificationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:43:59.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\Notification.cs",
+              "RelativeToolTip": "SmartParking.Core\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:42:16.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\UserHistoryController.cs",
+              "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\UserHistoryController.cs",
+              "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\UserHistoryController.cs",
+              "RelativeToolTip": "SmartParkingSystem\\Controllers\\UserHistoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:39:11.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserHistoryResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\UserHistoryResponseDTO.cs",
+              "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\UserHistoryResponseDTO.cs",
+              "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\UserHistoryResponseDTO.cs",
+              "RelativeToolTip": "SmartParkingSystem\\DTOs\\ResponseDTOs\\UserHistoryResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:37:43.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EndReservationRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\EndReservationRequestDTO.cs",
+              "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\EndReservationRequestDTO.cs",
+              "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\EndReservationRequestDTO.cs",
+              "RelativeToolTip": "SmartParkingSystem\\DTOs\\EndReservationRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:28:07.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
               "Title": "20251205013123_YourMigrationName1.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Migrations\\20251205013123_YourMigrationName1.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Migrations\\20251205013123_YourMigrationName1.cs",
@@ -294,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 56,
               "Title": "20251205012654_YourMigrationName.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Migrations\\20251205012654_YourMigrationName.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Migrations\\20251205012654_YourMigrationName.cs",
@@ -306,68 +419,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RegisterRequest.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RegisterRequest.cs",
               "RelativeToolTip": "SmartParkingSystem\\DTOs\\RegisterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T00:47:27.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\AuthController.cs",
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAcwB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T00:30:32.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T00:30:32.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 58,
               "Title": "reset-password.html",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\wwwroot\\reset-password.html",
               "RelativeDocumentMoniker": "SmartParkingSystem\\wwwroot\\reset-password.html",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\wwwroot\\reset-password.html",
               "RelativeToolTip": "SmartParkingSystem\\wwwroot\\reset-password.html",
-              "ViewState": "AgIAAN8AAAAAAAAAAIBJwBIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAANwAAAAAAAAAAIBZwBIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-12-04T23:19:22.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 37,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Services\\JwtService.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Services\\JwtService.cs",
               "RelativeToolTip": "SmartParkingSystem\\Services\\JwtService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T22:54:19.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 38,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Services\\EmailService.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Services\\EmailService.cs",
               "RelativeToolTip": "SmartParkingSystem\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIA6wCUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwCUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T22:53:41.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 45,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\appsettings.Development.json",
               "RelativeDocumentMoniker": "SmartParkingSystem\\appsettings.Development.json",
@@ -379,67 +491,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 2,
               "Title": "CheckInOutLogsController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\CheckInOutLogsController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\CheckInOutLogsController.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\CheckInOutLogsController.cs",
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\CheckInOutLogsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T20:14:00.852Z"
+              "WhenOpened": "2025-11-21T20:14:00.852Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 0,
               "Title": "ChatbotLogsController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\ChatbotLogsController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\ChatbotLogsController.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\ChatbotLogsController.cs",
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\ChatbotLogsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T20:13:37.752Z"
+              "WhenOpened": "2025-11-21T20:13:37.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "AdminReportsController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\AdminReportsController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\AdminReportsController.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\AdminReportsController.cs",
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\AdminReportsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T20:13:16.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 30,
               "Title": "SensorsController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\SensorsController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\SensorsController.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\SensorsController.cs",
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\SensorsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T20:12:58.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ParkingSlotsController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\ParkingSlotsController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\ParkingSlotsController.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\ParkingSlotsController.cs",
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\ParkingSlotsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T20:12:38.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 3,
               "Title": "PaymentsController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\PaymentsController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\PaymentsController.cs",
@@ -447,71 +561,73 @@
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\PaymentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T20:11:56.633Z"
+              "WhenOpened": "2025-11-21T20:11:56.633Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "WalletsController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\WalletsController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\WalletsController.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\WalletsController.cs",
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\WalletsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T20:11:34.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 4,
               "Title": "ReservationsController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\ReservationsController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\ReservationsController.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\ReservationsController.cs",
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\ReservationsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwJUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T20:10:41.406Z"
+              "WhenOpened": "2025-11-21T20:10:41.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Controllers\\UsersController.cs",
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T20:07:01.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 12,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "SmartParking.Repository\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Repository\\GenericRepository.cs",
               "RelativeToolTip": "SmartParking.Repository\\GenericRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T20:00:44.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 22,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Repository\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "SmartParking.Repository\\IGenericRepository.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Repository\\IGenericRepository.cs",
               "RelativeToolTip": "SmartParking.Repository\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T19:59:59.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 52,
               "Title": "CreateSensorRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateSensorRequestDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateSensorRequestDTO.cs",
@@ -523,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 39,
               "Title": "CreateWalletRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateWalletRequestDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateWalletRequestDTO.cs",
@@ -535,31 +651,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 32,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Helpers\\MappingProfile.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Helpers\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Helpers\\MappingProfile.cs",
               "RelativeToolTip": "SmartParkingSystem\\Helpers\\MappingProfile.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCAAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T18:24:18.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "CheckInOutLogResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\CheckInOutLogResponseDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\CheckInOutLogResponseDTO.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\CheckInOutLogResponseDTO.cs",
               "RelativeToolTip": "SmartParkingSystem\\DTOs\\ResponseDTOs\\CheckInOutLogResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T18:11:33.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 51,
               "Title": "AdminReportResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\AdminReportResponseDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\AdminReportResponseDTO.cs",
@@ -571,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 50,
               "Title": "ChatbotLogResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\ChatbotLogResponseDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\ChatbotLogResponseDTO.cs",
@@ -583,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 47,
               "Title": "PaymentResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\PaymentResponseDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\PaymentResponseDTO.cs",
@@ -595,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 33,
               "Title": "SensorResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\SensorResponseDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\SensorResponseDTO.cs",
@@ -607,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 49,
               "Title": "ParkingSlotResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\ParkingSlotResponseDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\ParkingSlotResponseDTO.cs",
@@ -619,19 +735,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "ReservationResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\ReservationResponseDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\ReservationResponseDTO.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\ReservationResponseDTO.cs",
               "RelativeToolTip": "SmartParkingSystem\\DTOs\\ResponseDTOs\\ReservationResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T18:10:20.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 48,
               "Title": "WalletResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\WalletResponseDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\WalletResponseDTO.cs",
@@ -643,19 +759,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "UserResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\UserResponseDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\ResponseDTOs\\UserResponseDTO.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\ResponseDTOs\\UserResponseDTO.cs",
               "RelativeToolTip": "SmartParkingSystem\\DTOs\\ResponseDTOs\\UserResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T18:09:42.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 55,
               "Title": "CreateCheckInOutLogRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateCheckInOutLogRequestDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateCheckInOutLogRequestDTO.cs",
@@ -667,7 +783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 46,
               "Title": "CreateAdminReportRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateAdminReportRequestDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateAdminReportRequestDTO.cs",
@@ -679,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 14,
               "Title": "CreateChatbotLogRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateChatbotLogRequestDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateChatbotLogRequestDTO.cs",
@@ -691,7 +807,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 54,
               "Title": "CreateParkingSlotRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateParkingSlotRequestDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateParkingSlotRequestDTO.cs",
@@ -703,7 +819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 53,
               "Title": "CreatePaymentRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreatePaymentRequestDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreatePaymentRequestDTO.cs",
@@ -715,31 +831,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 42,
               "Title": "CreateReservationRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateReservationRequestDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateReservationRequestDTO.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateReservationRequestDTO.cs",
               "RelativeToolTip": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateReservationRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T18:06:30.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 40,
               "Title": "CreateUserRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateUserRequestDTO.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateUserRequestDTO.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\DTOs\\RequestDTOs\\CreateUserRequestDTO.cs",
               "RelativeToolTip": "SmartParkingSystem\\DTOs\\RequestDTOs\\CreateUserRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T18:06:12.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 61,
               "Title": "20251121173413_InitialCreate3.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Migrations\\20251121173413_InitialCreate3.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Migrations\\20251121173413_InitialCreate3.cs",
@@ -751,7 +867,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 62,
               "Title": "20251121172406_InitialCreate2.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Migrations\\20251121172406_InitialCreate2.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Migrations\\20251121172406_InitialCreate2.cs",
@@ -763,19 +879,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 23,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Repository\\DbInitializer.cs",
               "RelativeDocumentMoniker": "SmartParking.Repository\\DbInitializer.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Repository\\DbInitializer.cs",
               "RelativeToolTip": "SmartParking.Repository\\DbInitializer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwIQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwIQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T17:20:32.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 60,
               "Title": "20251121165305_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Migrations\\20251121165305_InitialCreate.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Migrations\\20251121165305_InitialCreate.cs",
@@ -787,7 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 41,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\WeatherForecast.cs",
@@ -799,7 +915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 57,
               "Title": "SmartParkingSystem.csproj",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\SmartParkingSystem.csproj",
               "RelativeDocumentMoniker": "SmartParkingSystem\\SmartParkingSystem.csproj",
@@ -811,19 +927,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Program.cs",
               "RelativeDocumentMoniker": "SmartParkingSystem\\Program.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\Program.cs",
               "RelativeToolTip": "SmartParkingSystem\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAMwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T16:16:34.747Z"
+              "WhenOpened": "2025-11-21T16:16:34.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 59,
               "Title": "SmartParking.Repository.csproj",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Repository\\SmartParking.Repository.csproj",
               "RelativeDocumentMoniker": "SmartParking.Repository\\SmartParking.Repository.csproj",
@@ -835,55 +952,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 43,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\appsettings.json",
               "RelativeDocumentMoniker": "SmartParkingSystem\\appsettings.json",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParkingSystem\\appsettings.json",
               "RelativeToolTip": "SmartParkingSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-21T16:14:05.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 11,
               "Title": "ParkingContext.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Repository\\ParkingContext.cs",
               "RelativeDocumentMoniker": "SmartParking.Repository\\ParkingContext.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Repository\\ParkingContext.cs",
               "RelativeToolTip": "SmartParking.Repository\\ParkingContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAHwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T16:12:54.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 31,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\Wallet.cs",
               "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\Wallet.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\Wallet.cs",
               "RelativeToolTip": "SmartParking.Core\\Entities\\Wallet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T16:08:20.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\User.cs",
               "RelativeToolTip": "SmartParking.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowC4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T16:08:00.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 29,
               "Title": "Sensor.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\Sensor.cs",
               "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\Sensor.cs",
@@ -895,55 +1012,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 5,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\Reservation.cs",
               "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\Reservation.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\Reservation.cs",
               "RelativeToolTip": "SmartParking.Core\\Entities\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T16:07:29.828Z"
+              "WhenOpened": "2025-11-21T16:07:29.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 34,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\Payment.cs",
               "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\Payment.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\Payment.cs",
               "RelativeToolTip": "SmartParking.Core\\Entities\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T16:07:09.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 13,
               "Title": "ParkingSlot.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\ParkingSlot.cs",
               "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\ParkingSlot.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\ParkingSlot.cs",
               "RelativeToolTip": "SmartParking.Core\\Entities\\ParkingSlot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T16:06:50.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 8,
               "Title": "CheckInOutLog.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\CheckInOutLog.cs",
               "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\CheckInOutLog.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\CheckInOutLog.cs",
               "RelativeToolTip": "SmartParking.Core\\Entities\\CheckInOutLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T16:06:29.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 7,
               "Title": "ChatbotLog.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\ChatbotLog.cs",
               "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\ChatbotLog.cs",
@@ -955,19 +1073,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 28,
               "Title": "AdminReport.cs",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\AdminReport.cs",
               "RelativeDocumentMoniker": "SmartParking.Core\\Entities\\AdminReport.cs",
               "ToolTip": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\Entities\\AdminReport.cs",
               "RelativeToolTip": "SmartParking.Core\\Entities\\AdminReport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T16:05:55.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 44,
               "Title": "SmartParking.Core.csproj",
               "DocumentMoniker": "C:\\Users\\omarm\\source\\repos\\SmartParkingSystem\\SmartParking.Core\\SmartParking.Core.csproj",
               "RelativeDocumentMoniker": "SmartParking.Core\\SmartParking.Core.csproj",

@@ -10,5 +10,6 @@ namespace SmartParking.Core.Interfaces
         Task AddAsync(T entity);
         Task UpdateAsync(T entity);
         Task DeleteAsync(T entity);
+        Task<T> GetByIdWithIncludesAsync(int id, params Expression<Func<T, object>>[] includes);
     }
 }

@@ -102,6 +102,34 @@ namespace SmartParkingSystem.Migrations
                     b.ToTable("CheckInOutLogs");
                 });
 
+            modelBuilder.Entity("SmartParking.Core.Entities.Notification", b =>
+                {
+                    b.Property<int>("NotificationId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("NotificationId"));
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsRead")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Message")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("NotificationId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Notifications");
+                });
+
             modelBuilder.Entity("SmartParking.Core.Entities.ParkingSlot", b =>
                 {
                     b.Property<int>("SlotId")
@@ -320,6 +348,17 @@ namespace SmartParkingSystem.Migrations
                     b.Navigation("Reservation");
                 });
 
+            modelBuilder.Entity("SmartParking.Core.Entities.Notification", b =>
+                {
+                    b.HasOne("SmartParking.Core.Entities.User", "User")
+                        .WithMany("Notifications")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("SmartParking.Core.Entities.Payment", b =>
                 {
                     b.HasOne("SmartParking.Core.Entities.Wallet", "Wallet")
@@ -391,6 +430,8 @@ namespace SmartParkingSystem.Migrations
                     b.Navigation("AdminReports");
 
                     b.Navigation("ChatbotLogs");
+
+                    b.Navigation("Notifications");
 
                     b.Navigation("Reservations");
 

@@ -8,5 +8,7 @@
         public int DurationSeconds { get; set; }
         public decimal TotalFee { get; set; }
         public string PaymentStatus { get; set; }
+        public string FullName { get; set; }
+
     }
 }

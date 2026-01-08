@@ -1,10 +1,12 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SmartParking.Core.Entities;
 using SmartParking.Core.Interfaces;
 using SmartParking.Repository;
 using SmartParkingSystem.DTOs.Requests;
 using SmartParkingSystem.DTOs.Responses;
+using System.Security.Claims;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -63,4 +65,24 @@ public class UsersController : ControllerBase
         await _repo.DeleteAsync(existing);
         return Ok("Deleted");
     }
+    [HttpGet("me")]
+    [Authorize]
+    public async Task<IActionResult> GetMe()
+    {
+        var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
+
+        if (userIdClaim == null)
+            return Unauthorized(new { message = "Token invalid or missing." });
+
+        int userId = int.Parse(userIdClaim.Value);
+
+        var user = await _repo.GetByIdAsync(userId);
+
+        if (user == null)
+            return NotFound(new { message = "User not found." });
+
+        return Ok(_mapper.Map<UserResponseDTO>(user));
+    }
+
 }
+

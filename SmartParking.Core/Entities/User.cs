@@ -45,6 +45,7 @@ namespace SmartParking.Core.Entities
         public ICollection<Reservation> Reservations { get; set; }
         public ICollection<ChatbotLog> ChatbotLogs { get; set; }
         public ICollection<AdminReport> AdminReports { get; set; }
+        public ICollection<Notification> Notifications { get; set; }
     }
 
 }

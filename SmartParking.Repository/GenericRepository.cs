@@ -47,5 +47,24 @@ namespace SmartParking.Repository.Repositories
             _context.Set<T>().Remove(entity);
             await _context.SaveChangesAsync();
         }
+        public async Task<T> GetByIdWithIncludesAsync(int id, params Expression<Func<T, object>>[] includes)
+        {
+            IQueryable<T> query = _context.Set<T>();
+
+            foreach (var include in includes)
+                query = query.Include(include);
+
+            // Assuming your entity has a property named Id
+            // If your primary key is different, adjust this
+            var keyProperty = typeof(T).GetProperties().FirstOrDefault(p => p.Name.EndsWith("Id"));
+            if (keyProperty == null)
+                throw new Exception("No Id property found on entity");
+
+            // Build expression dynamically to filter by id
+            query = query.Where(e => EF.Property<int>(e, keyProperty.Name) == id);
+
+            return await query.FirstOrDefaultAsync();
+        }
+
     }
 }
